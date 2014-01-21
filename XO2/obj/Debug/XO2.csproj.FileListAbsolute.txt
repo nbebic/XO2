@@ -1,0 +1,11 @@
+c:\users\master\documents\visual studio 2012\Projects\XO2\XO2\bin\Debug\XO2.exe.config
+C:\Users\Master\Documents\Visual Studio 2012\Projects\XO2\XO2\bin\Debug\XO2.exe
+C:\Users\Master\Documents\Visual Studio 2012\Projects\XO2\XO2\bin\Debug\XO2.pdb
+C:\Users\Master\Documents\Visual Studio 2012\Projects\XO2\XO2\obj\Debug\XO2.csprojResolveAssemblyReference.cache
+C:\Users\Master\Documents\Visual Studio 2012\Projects\XO2\XO2\obj\Debug\XO2.Form1.resources
+C:\Users\Master\Documents\Visual Studio 2012\Projects\XO2\XO2\obj\Debug\XO2.Properties.Resources.resources
+C:\Users\Master\Documents\Visual Studio 2012\Projects\XO2\XO2\obj\Debug\XO2.csproj.GenerateResource.Cache
+C:\Users\Master\Documents\Visual Studio 2012\Projects\XO2\XO2\obj\Debug\XO2.exe
+C:\Users\Master\Documents\Visual Studio 2012\Projects\XO2\XO2\obj\Debug\XO2.pdb
+C:\Users\Master\Documents\Visual Studio 2012\Projects\XO2\XO2\obj\Debug\XO2.Form2.resources
+C:\Users\Master\Documents\Visual Studio 2012\Projects\XO2\XO2\obj\Debug\XO2.Asoc.resources
